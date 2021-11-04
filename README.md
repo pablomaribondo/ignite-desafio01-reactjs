@@ -28,7 +28,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 ## 📷 Screenshots
 
 <kbd>
-  <img src=".github/screenshot.png" alt="screenshot" width="500" />
+  <img src=".github/screenshot.png" alt="screenshot" width="600" />
 </kbd>
 
 [babel]: https://babeljs.io/
