@@ -11,9 +11,9 @@
 Projeto desenvolvido durante o programa de aceleração profissional **Ignite**, oferecido pela [Rocketseat][rocketseat].
 A ideia do projeto é desenvolver uma pequena aplicação de atividades a fazer, com as seguintes funcionalidades:
 
-- Adicionar uma tarefa
-- Remover uma tarefa
-- Marcar e desmarcar uma tarefa comom concluída
+- Adicionar uma tarefa;
+- Remover uma tarefa;
+- Marcar e desmarcar uma tarefa como concluída.
 
 ## 🛠 Tecnologias
 
